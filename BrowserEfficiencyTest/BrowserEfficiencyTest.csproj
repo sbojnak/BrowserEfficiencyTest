@@ -81,6 +81,7 @@
     <Compile Include="Scenarios\GooglePrimeFactorization.cs" />
     <Compile Include="Scenarios\HistoryWWII.cs" />
     <Compile Include="Scenarios\InstagramNYPL.cs" />
+    <Compile Include="Scenarios\IsMuniScenario.cs" />
     <Compile Include="Scenarios\IxlEighthGradeScience.cs" />
     <Compile Include="Scenarios\LinkedInSatya.cs" />
     <Compile Include="Scenarios\NewselaChineseNewYear.cs" />
